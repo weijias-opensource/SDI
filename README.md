@@ -2,7 +2,7 @@
 SEISMIC DAYLIGHT IMAGING
 ========================
 
-This novel approach is based on the priciple by Claerbout (1968).
+This novel receiver-based approach is based on the priciple by Claerbout (1968).
 
 Citations
 =========
