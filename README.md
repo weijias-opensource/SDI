@@ -27,11 +27,13 @@ First you should import SDI::
 	
 	import sdi
 	
-Then apply pre-processing procedures.
+Then apply these procedures.
 
 	sdi.pre-processing()
+	sdi.autocorrelation()
+	sdi.moveout()
+	sdi.stack()
 	
-
 
 Applications
 ============
