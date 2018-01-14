@@ -1,7 +1,9 @@
 SEISMIC DAYLIGHT IMAGING
 ========================
 
-This novel receiver-based approach is based on the priciple by Claerbout (1968).
+This novel receiver-based approach is based on the priciple by Claerbout (1968), 
+which constructes the P reflectivity via autocorrelation. 
+For detailed descriptions, please refer to Sun and Kennett (2016).
 
 Citations
 =========
@@ -18,6 +20,18 @@ For bashrc,
 	export PYTHONPATH=$PYTHONPATH:/where/you/put/the/python/files
 	
 The way is very convenient for users without root access.
+
+How to use
+==========
+First you should import SDI.
+	
+	import sdi
+	
+Then apply pre-processing procedures.
+
+	sdi.pre-processing()
+	
+
 
 Applications
 ============
