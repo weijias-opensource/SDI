@@ -23,7 +23,7 @@ The way is very convenient for users without root access.
 
 How to use
 ==========
-First you should import SDI.
+First you should import SDI::
 	
 	import sdi
 	
