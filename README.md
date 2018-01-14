@@ -13,7 +13,7 @@ Installation
 ============
 Put the python source files in any folder you select and add the path to the PYTHONPATH enviroment.
 
-For bashrc,::
+For bashrc,
 
 	export PYTHONPATH=$PYTHONPATH:/where/you/put/the/python/files
 	
