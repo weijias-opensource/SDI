@@ -12,7 +12,7 @@ and
 
 >> python plot.py
 
-You would see the final P reflectivity beneath the IU.MBWA station in Western Australian Craton.
+You would see the final P reflectivity beneath the IU.MBWA station in Western Australian Craton. The final datasets are saved in the folder of SDI/plot. The files ending with .d are in the depth domain and others are in time domain.
 
 .. image:: sdi.png
 
