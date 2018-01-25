@@ -21,6 +21,8 @@ For bashrc,
 	
 The way is very convenient for users without root access.
 
+Before you run the example, make sure you have installed the package of OBSPY https://github.com/obspy/obspy/wiki.
+
 How to use
 ==========
 First you should import SDI::
