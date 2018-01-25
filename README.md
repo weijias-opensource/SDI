@@ -36,7 +36,9 @@ Then apply these procedures.
 	sdi.moveout()
 	sdi.stack()
 
-For detailed, please go to the examples folder and check the script of run_sdi.py and plot.py.	
+For detailed, please go to the examples folder and check the script of run_sdi.py and plot.py. 
+
+The input data should be in SAC format. 	
 
 Applications
 ============
