@@ -35,12 +35,15 @@ Then apply these procedures.
 	sdi.autocorrelation()
 	sdi.moveout()
 	sdi.stack()
-	
+
+For detailed, please go to the examples folder and check the script of run_sdi.py and plot.py.	
 
 Applications
 ============
 If you use the package and publish your work, Please send a copy to me via swj [at] mail.iggcas.ac.cn. I would list your work here.
 
-Works in future
-===============
-1. Migration of constructed P reflectivity.
+Contacts
+========
+If you have any problems, please contact with me. I would response your problems as quick.
+
+Email: swj<at>mail.iggcas.ac.cn; weijia_sun<at>163.com
