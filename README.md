@@ -46,4 +46,6 @@ Contacts
 ========
 If you have any problems, please contact with me. I would response your problems as quick.
 
-Email: swj <at> mail.iggcas.ac.cn; weijia_sun <at> 163.com
+Email: swj#mail.iggcas.ac.cn; weijia_sun#163.com
+
+Please replacing # with @, thanks.
